@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: TRÒ CHƠI DOMINO HÓA HỌC",
+  "description": "Trò chơi tương tác giáo dục ghép thẻ Domino xâu chuỗi kiến thức để hiển thị thông điệp hình ảnh ẩn giấu dành cho học sinh THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
